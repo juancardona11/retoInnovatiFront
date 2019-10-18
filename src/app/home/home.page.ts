@@ -21,6 +21,7 @@ export class HomePage {
               private photoService: PhotoService,
               private audioService: AudioService, 
               private formBuilder: FormBuilder) {
+                this.takePhoto();
               }
              
   
