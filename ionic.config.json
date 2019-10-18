@@ -1,5 +1,7 @@
 {
   "name": "FaceApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
